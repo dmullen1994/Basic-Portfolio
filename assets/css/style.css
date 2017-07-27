@@ -1,0 +1,110 @@
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {
+  background-image: url(../images/skyscraper.png)
+
+}
+
+header {
+  height: 75px;
+  background: #fff;
+  border-bottom: solid 2px black;
+
+}
+
+#nameBox  {
+
+  width: 200px;
+  height: 73px;
+  font-size: 200%;
+  background: #FFCFBC;
+  padding-top: 15px;
+  float: left;
+  margin-left: 5%
+
+}
+
+#linkBox  {
+  position: absolute;
+  right: 20px;
+  top: 30px;
+  width: 200px;  
+}
+
+#theMeat {
+  width: 60%;
+  margin-left: 5%;
+  background: #fff;
+  float: left;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+h1  {
+  height: 50px;
+  padding-top: 10px;
+  background: #FFCFBC;
+  border-bottom: solid 2px black;
+  font-size: 200%;
+  color: black; 
+  text-align: left;
+  padding-left: 20px;
+  
+}
+
+#aboutPicture {
+  float: left;
+  margin-top: 15px;
+  margin-left: 15px;
+
+}
+
+#p1 {
+  padding-top: 20px;
+}
+
+#p2 {
+  padding-top: 5px;
+  clear: both;
+  padding-bottom: 15px;
+}
+
+#thePotatoes {
+  width: 25%;
+  height: 150px;
+  background: #fff;
+  float: left;
+  margin-top: 30px;
+  margin-left: 50px;
+  font-size: 24;
+
+}
+
+h2  {
+  height: 50px;
+  padding-top: 10px;
+  background: #FFCFBC;
+  border-bottom: solid 2px black;
+  font-size: 150%; 
+  color: black; 
+  margin-bottom: 25px;
+  
+}
+
+footer {
+  clear: both;
+  border-top: solid 2px black;
+  padding-top: 20px;
+  background: #fff;
+  width: 100%;
+  height: 60px;
+  position: fixed;
+  bottom: 0;
+  
+
+}
+
+
